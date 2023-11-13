@@ -5,7 +5,7 @@ const reportWebVitals = onPerfEntry => {
       getFID(onPerfEntry);
       getFCP(onPerfEntry);
       getLCP(onPerfEntry);
-      getTTFB(onPerfEntry);123456789012345678
+      getTTFB(onPerfEntry);1234567890123456789
     });
   }
 };
